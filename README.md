@@ -1,2 +1,2 @@
-# PowerfulDevHeck
-Hackathon Submission
+# Generating MCQs by using AI Knowledge Check Model in Canvas App. 
+This is my submission for Dev Heck Hackathon. Not a very fancy one but as I am new to PowerApps and trying to be a part of this Hackathon, I focused on developing this App as it will also address my issue of creating worksheets for my kids to practice their Math and Science topics,  I used AI Hub Knowledge Check model to create Multiple Choice Questions extracted from selected image or PDF file shared by teachers for lessons. Canvas App will allow to select pdf file or image and with the help of AI model create multiple choice questions in HTML form and later this will be converted into PDF format and email to email address after downloading pdf it can be sent to printer for printing, there is also an option of printing screen by using Print() function but it prints the screen and not showing all the questions in the MCQs.
